@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seed">#0F6B5C</color>
+    <color name="status_bar">#0B3D36</color>
+    <color name="nav_bar">#F4F7F6</color>
+    <color name="ic_launcher_bg">#0F6B5C</color>
+</resources>

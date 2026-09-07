@@ -1,0 +1,29 @@
+# Gradle / Android build outputs
+.gradle/
+build/
+**/build/
+
+# Local SDK path
+local.properties
+
+# Built artifacts
+*.apk
+*.aar
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Native / capture / profiling
+.externalNativeBuild/
+.cxx/
+captures/
+*.hprof
+
+# IDE
+.idea/
+*.iml
+.navigation/
+
+# macOS
+.DS_Store

@@ -25,7 +25,7 @@ Open this folder in Android Studio, connect the Samsung phone with USB debugging
 ./gradlew assembleDebug
 ```
 
-The APK is `app/build/outputs/apk/debug/app-debug.apk`.
+The APK is `app/build/outputs/apk/debug/notify-relay.apk`.
 
 ### 2. Create a Telegram bot (on the iPhone)
 

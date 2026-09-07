@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotifyRelay</string>
+    <string name="listener_label">NotifyRelay notification access</string>
+    <string name="status_notification_title">Forwarding to Telegram</string>
+    <string name="status_notification_text">Selected Samsung notifications are being sent to your iPhone</string>
+</resources>
